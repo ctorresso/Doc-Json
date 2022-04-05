@@ -1,0 +1,30 @@
+{
+    "Invoice": {
+        "BusinessInformation": {
+            "BusineesName": "Venta de Autos",
+            "StreedAddress": "Av.Constitucion",
+            "City": "Mexico",
+            "State": "Distrito Federal",
+            "Email": "Ventas_Autos@MercedesBenz.mx",
+            "ZipCode": "01050"
+        },
+        "DescriptionServices": {
+            "Product": "Mercedes Benz Clase C",
+            "Description": "Color Blanco, 6 Cilindros, etc.",
+            "Rate": "10",
+            "Amount": "$1,200.000"
+        },
+        "CustomerData": {
+            "ClientName": "Rodolfo Valenzuela",
+            "CellPhone": "01-800-142-015",
+            "StreedAddress": "Jalisco",
+            "Due": "10/02/2022"
+        },
+        "Deductions": {
+            "Subtotal": "$1,200.000",
+            "SalesTax": "16%",
+            "Shipping": "Free",
+            "Total": "$1,456.000"
+        }
+    }
+}
